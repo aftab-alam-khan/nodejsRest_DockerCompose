@@ -15,7 +15,7 @@ Step 1: Clone this git repository
 Step 2: cd into the cloned repository and run:
 
 ```bash
-npm install
+`npm install`
 ```
 
 Step 3: Put your credentials in the .env file.
@@ -31,7 +31,7 @@ DB_PASS=DATABASE USER PASSWORD
 Step 4: Start the API by
 
 ```bash
-npm start
+`npm start`
 ```
 
 ## License
